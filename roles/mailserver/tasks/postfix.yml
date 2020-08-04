@@ -8,6 +8,7 @@
     - postgrey
     - python-psycopg2
     - sasl2-bin
+    - python-passlib
   tags:
     - dependencies
 
